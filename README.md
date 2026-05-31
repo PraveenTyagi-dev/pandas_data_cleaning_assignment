@@ -31,3 +31,10 @@ README.md → Project documentation
 # Objective
 
 This assignment helped me in understanding the basic data analysis , data exploration and data cleaning techniques using python pandas library.
+
+# Note
+## Note
+
+If the notebook preview does not render properly on GitHub, please download and open the `.ipynb` file locally using Jupyter Notebook or VS Code.
+
+
